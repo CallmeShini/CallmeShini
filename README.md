@@ -19,12 +19,12 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
 <h2 align="left">I build with</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agents-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Structured_Output-0D1117?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Structured%20Outputs-0D1117?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 <br/>
@@ -64,6 +64,29 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
     <td align="center" width="84">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" alt="swift" /><br/>
       <sub>Swift</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">AI Tooling</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="84">
+      <img src="https://cdn.simpleicons.org/openai/white" height="42"/><br/>
+      <sub>OpenAI</sub>
+    </td>
+    <td align="center" width="84">
+      <img src="https://cdn.simpleicons.org/anthropic/white" height="42"/><br/>
+      <sub>Anthropic</sub>
+    </td>
+    <td align="center" width="84">
+      <img src="https://cdn.simpleicons.org/pinecone/white" height="42"/><br/>
+      <sub>Pinecone</sub>
+    </td>
+    <td align="center" width="84">
+      <img src="https://cdn.simpleicons.org/weaviate/white" height="42"/><br/>
+      <sub>Weaviate</sub>
     </td>
   </tr>
 </table>
