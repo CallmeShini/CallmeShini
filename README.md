@@ -4,52 +4,72 @@
 
 <br clear="both">
 
-<p align="left">I’m Shini. Low level programmer, game developer, and generalist builder.<br>I’m heavily into Lua, it’s my default tool for shipping systems.</p>
+<p align="left">
+I’m Shini — AI Engineer focused on building real-world systems with LLMs, agents, and automation.<br>
+I design and ship AI-powered products, from low-level systems to high-level intelligent pipelines.
+</p>
 
 ###
 
-<h6 align="left">• 🧠 Creating bugs since: C & Assembly<br>• ⚙️ Background: Embedded systems + PLC / industrial automation<br>• 🌙 Fun fact: Lua is my go-to language<br>Maybe Red Team intel...</h6>
+<h6 align="left">
+• 🧠 Building AI systems: LLM pipelines, agents, structured outputs<br>
+• ⚙️ Background: low-level (C / Assembly), embedded systems, PLC / industrial automation<br>
+• 🔬 Focus: turning AI into production-ready systems<br>
+• 🕶️ Maybe Red Team thinking...
+</h6>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I build with</h2>
+
+###
+
+<table align="center">
+  <tr>
+    <td align="center" width="110">LLMs</td>
+    <td align="center" width="110">RAG</td>
+    <td align="center" width="110">Agents</td>
+    <td align="center" width="110">Embeddings</td>
+    <td align="center" width="110">Automation</td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="left">Core stack</h2>
 
 ###
 
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<h2 align="left">Systems I'm building</h2>
+
+<p align="left">
+→ LLM-based applications (RAG, agents, structured pipelines)<br>
+→ AI-driven tools and SaaS products<br>
+→ Automation workflows powered by AI<br>
+→ Experimental systems combining low-level + AI
+</p>
 
 <br/>
 
