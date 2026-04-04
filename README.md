@@ -11,7 +11,7 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
 • 🧠 Building AI systems: LLM pipelines, agents, RAG, structured outputs<br>
 • ⚙️ Background: low-level (C / Assembly), embedded systems, PLC / industrial automation<br>
 • 🔬 Focus: turning AI into usable, production-ready products<br>
-• 🕶️ Maybe Red Team thinking...
+• 🕶️ Applied security thinking (ex-Red Team mindset)
 </h6>
 
 <br/>
@@ -19,12 +19,12 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
 <h2 align="left">I build with</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Structured%20Outputs-0D1117?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Structured%20Outputs-0D1117?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 <br/>
@@ -68,25 +68,23 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
   </tr>
 </table>
 
-<h3 align="center">AI Tooling</h3>
+<br/>
+
+<h2 align="center">AI Tooling</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="84">
-      <img src="https://cdn.simpleicons.org/openai/white" height="42"/><br/>
-      <sub>OpenAI</sub>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
-    <td align="center" width="84">
-      <img src="https://cdn.simpleicons.org/anthropic/white" height="42"/><br/>
-      <sub>Anthropic</sub>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Anthropic-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
     </td>
-    <td align="center" width="84">
-      <img src="https://cdn.simpleicons.org/pinecone/white" height="42"/><br/>
-      <sub>Pinecone</sub>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=white" />
     </td>
-    <td align="center" width="84">
-      <img src="https://cdn.simpleicons.org/weaviate/white" height="42"/><br/>
-      <sub>Weaviate</sub>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Weaviate-0D1117?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -137,9 +135,10 @@ I design and ship intelligent systems end-to-end, combining low-level engineerin
 <h2 align="left">Systems I'm building</h2>
 
 <p align="left">
-→ LLM-based applications with RAG, agents, and structured pipelines<br>
-→ AI-powered tools, automation workflows, and SaaS products<br>
-→ Production-oriented backends for inference, retrieval, and orchestration<br>
+→ LLM pipelines with retrieval (RAG) and structured outputs<br>
+→ Multi-step agent systems with tool usage<br>
+→ AI-driven automation workflows (end-to-end)<br>
+→ Production-ready backends for inference and orchestration<br>
 → Experimental systems combining low-level engineering + applied AI
 </p>
 
