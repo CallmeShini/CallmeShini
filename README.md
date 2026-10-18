@@ -1,161 +1,135 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<br clear="both">
-
-<p align="left">
-I’m Shini — AI Engineer focused on building real-world systems with LLMs, agents, automation, and applied AI products.<br>
-I design and ship intelligent systems end-to-end, combining low-level engineering background with production-ready AI pipelines.
+<p align="center">
+  <img src="assets/shini-banner-v1.png" width="100%" alt="Shini — AI Engineer. White-haired anime character holding a shark plush, in ice-blue tones.">
 </p>
-
-<h6 align="left">
-• 🧠 Building AI systems: LLM pipelines, agents, RAG, structured outputs<br>
-• ⚙️ Background: low-level (C / Assembly), embedded systems, PLC / industrial automation<br>
-• 🔬 Focus: turning AI into usable, production-ready products<br>
-• 🕶️ Applied security thinking (ex-Red Team mindset)
-</h6>
-
-<br/>
-
-<h2 align="left">I build with</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Systems-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0D1117?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-0D1117?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Structured%20Outputs-0D1117?style=for-the-badge&logo=json&logoColor=white" />
+  <samp>RETRIEVAL · AGENTS · LLM SYSTEMS · AI SECURITY</samp><br>
+  <sub>Доверяй, но проверяй.</sub>
 </p>
-
-<br/>
-
-<h2 align="left">Core stack</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python" /><br/>
-      <sub>Python</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs" /><br/>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="typescript" /><br/>
-      <sub>TS</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="docker" /><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql" /><br/>
-      <sub>Postgres</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42" alt="fastapi" /><br/>
-      <sub>FastAPI</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="pytorch" /><br/>
-      <sub>PyTorch</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42" alt="swift" /><br/>
-      <sub>Swift</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">AI Tooling</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Anthropic-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logoColor=white" />
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Weaviate-0D1117?style=for-the-badge&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="left">AI / Data / Infra</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git" /><br/>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github" /><br/>
-      <sub>GitHub</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux" /><br/>
-      <sub>Linux</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash" /><br/>
-      <sub>Bash</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42" alt="opencv" /><br/>
-      <sub>OpenCV</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy" /><br/>
-      <sub>NumPy</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" alt="pandas" /><br/>
-      <sub>Pandas</sub>
-    </td>
-    <td align="center" width="84">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="cplusplus" /><br/>
-      <sub>C++</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="left">Systems I'm building</h2>
-
-<p align="left">
-→ LLM pipelines with retrieval (RAG) and structured outputs<br>
-→ Multi-step agent systems with tool usage<br>
-→ AI-driven automation workflows (end-to-end)<br>
-→ Production-ready backends for inference and orchestration<br>
-→ Experimental systems combining low-level engineering + applied AI
-</p>
-
-<br/>
-
-<h2 align="left">Currently exploring</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrieval_Pipelines-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model_Integration-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool_Calling-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Automation-111827?style=flat-square&logoColor=white" />
+  <a href="#engineering">Engineering</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#off-duty">Вне смены</a>
 </p>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="76%" valign="middle">
+<h3>Shini / AI Engineer &amp; Tech Lead</h3>
+<p>I work on agents, retrieval and the platform around them. C/Assembly, embedded systems and automation were my starting point. My work now spans model integration, shared backend services and hybrid Azure/GCP environments.</p>
+<p><strong>I put LLMs in production.<br>I still don't trust them.</strong></p>
+</td>
+<td width="24%" align="center" valign="middle">
+<a href="https://giphy.com/gifs/sad-gawr-gura-absurdexcrod-FN6731cXHeb7VJCkly"><img src="assets/gura-pain.gif" width="144" alt="Gura looking unimpressed, with the caption PAIN."></a>
+<br><sub>Всё под контролем.<br>Probably.</sub>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0bDl2eW1ha2RzNXVoY2RtejJ6bnN1aWtoZHBmZmxmbHhxd3gyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" />
-</div>
+## Engineering
+
+<sub>01 / TECHNICAL FOCUS — WHAT I PAY ATTENTION TO</sub>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<sub>01.1 / RETRIEVAL</sub>
+<h3>Advanced RAG</h3>
+<p>Hybrid search, reranking, evidence selection and semantic caching. Document structure and provenance before index tuning.</p>
+<p><code>Recall@k</code> · <code>MRR</code> · <code>grounding</code> · <code>abstention</code></p>
+</td>
+<td width="50%" valign="top">
+<sub>01.2 / ORCHESTRATION</sub>
+<h3>Agentic systems</h3>
+<p>Explicit graph state, typed tools and bounded planning loops. Checkpoints, idempotent actions and a stopping condition.</p>
+<p><code>state</code> · <code>tool contracts</code> · <code>permissions</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>01.3 / MODEL SYSTEMS</sub>
+<h3>LLM engineering</h3>
+<p>Validated outputs, prompt and model versioning, regression datasets and provider fallbacks. Quality, latency and cost in the same release decision.</p>
+<p><code>evals</code> · <code>tracing</code> · <code>fallbacks</code></p>
+</td>
+<td width="50%" valign="top">
+<sub>01.4 / TRUST BOUNDARIES</sub>
+<h3>AI security engineering</h3>
+<p>Prompt injection, retrieval-based exfiltration, tool abuse and cross-tenant access. Scoped credentials and repeatable adversarial tests.</p>
+<p><code>authorization</code> · <code>isolation</code> · <code>red teaming</code></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Open the design notes</strong> — retrieval, execution and security</summary>
+
+### Retrieval & evidence
+
+Parsing, chunking and provenance are separate stages. Evaluate retrieval and generation independently; inspect evidence and citation grounding, including queries that should produce an abstention.
+
+### Agent execution
+
+Tool contracts define what an agent can do. State, checkpoints, idempotency and approval boundaries define what happens when execution fails or crosses into an external system.
+
+### LLM releases
+
+Version prompts, models and evaluation datasets together. Compare quality, latency and inference cost before promotion; keep a fallback and a rollback path.
+
+### Security boundaries
+
+Apply authorization at retrieval and tool boundaries. Treat retrieved content and tool output as untrusted input. Handle sensitive data in traces deliberately and turn abuse cases into repeatable tests.
+
+</details>
+
+## Toolbox
+
+<sub>02 / APPLICATIONS → PLATFORM → OPERATIONS</sub>
+
+| Layer | Stack |
+| :--- | :--- |
+| **Application & systems** | Python · FastAPI · TypeScript · C/Assembly |
+| **AI & retrieval** | LangChain / LangGraph · PyTorch · Vertex AI · PostgreSQL / pgvector · BM25 · reranking |
+| **Cloud & platform** | GCP · GKE / Kubernetes · Azure · Docker · Secret Manager |
+| **Data & messaging** | PostgreSQL · Kafka |
+| **Evaluation & delivery** | OpenTelemetry · regression evaluations · shadow mode · Azure DevOps |
+
+<sub>Digging deeper: C++ · inference serving · durable agent execution.</sub>
+
+## Selected work
+
+<sub>03 / READ THE CODE, CHECK THE TRADE-OFFS</sub>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<sub>AGENTIC RETRIEVAL</sub>
+<h3><a href="https://github.com/CallmeShini/nextjs-docs-rag">nextjs-docs-rag ↗</a></h3>
+<p>Agentic retrieval over Next.js documentation: hybrid search, local reranking, evidence memory and semantic caching.</p>
+<p><strong>Inspect:</strong> explicit orchestration and reproducible cold/warm benchmarks.</p>
+</td>
+<td width="50%" valign="top">
+<sub>GROUNDED DOCUMENTATION QA</sub>
+<h3><a href="https://github.com/CallmeShini/docsrag-observatory">docsrag-observatory ↗</a></h3>
+<p>Documentation QA with a deterministic data pipeline, explicit abstention and separate evaluation of retrieval and generation.</p>
+<p><strong>Inspect:</strong> provenance, answer gating and evaluation-driven iteration.</p>
+</td>
+</tr>
+</table>
+
+## Off duty
+
+<details>
+<summary><strong>За кулисами</strong> / behind the scenes</summary>
+
+Меньше суеты. Больше работающего кода.<br>
+Акула отвечает за моральную поддержку. За код отвечаю я.
+
+</details>
+
+<p align="center">
+  <sub>На связи. / The shark is emotional support. I review the code.</sub><br>
+  <sub>GIF: <a href="https://giphy.com/gifs/sad-gawr-gura-absurdexcrod-FN6731cXHeb7VJCkly">Nosenzei via GIPHY</a></sub>
+</p>
