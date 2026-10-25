@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/shini-banner-v1.png" width="100%" alt="Shini — AI Engineer. White-haired anime character holding a shark plush, in ice-blue tones.">
+  <img src="assets/capalinkedin.png" width="100%" alt="Agentic Systems · Offensive AI Security — red banner with a classical helmeted figure and the quote Quis custodiet ipsos custodes?">
 </p>
 
 <p align="center">
